@@ -2,7 +2,7 @@
 
 A Python-based interactive sand particle simulation using Pygame. This project creates a realistic sand-falling animation where particles interact with each other and form natural-looking piles.
 
-![Vista previa](ruta/a/la/imagen/nombre-imagen.png)
+![Vista previa](tests/Screenshot From 2024-12-27 14-32-06.png)
 
 
 ## Features
